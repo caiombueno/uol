@@ -1,0 +1,27 @@
+[submodule "modules/oop/oop_midterm"]
+	path = modules/oop/oop_midterm
+	url = https://github.com/caiombueno/oop_midterm.git
+[submodule "modules/pwd/pwd_midterm_project"]
+	path = modules/pwd/pwd_midterm_project
+	url = https://github.com/caiombueno/pwd_midterm_project.git
+[submodule "modules/dnw/dnw_midterm"]
+	path = modules/dnw/dnw_midterm
+	url = https://github.com/caiombueno/dnw_midterm.git
+[submodule "modules/gp/gp_snooker_app"]
+	path = modules/gp/gp_snooker_app
+	url = https://github.com/caiombueno/gp_snooker_app.git
+[submodule "modules/gp/gp_endterm"]
+	path = modules/gp/gp_endterm
+	url = https://github.com/caiombueno/gp_endterm.git
+[submodule "modules/3dga/midterm/cm3045-an-interactive-physics-scene"]
+	path = modules/3dga/midterm/cm3045-an-interactive-physics-scene
+	url = https://github.com/caiombueno/cm3045-an-interactive-physics-scene.git
+[submodule "modules/md/midterm/cm3050-calculator"]
+	path = modules/md/midterm/cm3050-calculator
+	url = https://github.com/caiombueno/cm3050-calculator.git
+[submodule "modules/md/midterm/cm3050-tic-tac-toe"]
+	path = modules/md/midterm/cm3050-tic-tac-toe
+	url = https://github.com/caiombueno/cm3050-tic-tac-toe.git
+[submodule "modules/md/midterm/cm3050-food-app"]
+	path = modules/md/midterm/cm3050-food-app
+	url = https://github.com/caiombueno/cm3050-food-app.git
