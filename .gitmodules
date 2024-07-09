@@ -28,3 +28,6 @@
 [submodule "modules/3dga/midterm/cm3045-first-3d-scene"]
 	path = modules/3dga/midterm/cm3045-first-3d-scene
 	url = https://github.com/caiombueno/cm3045-first-3d-scene.git
+[submodule "modules/nlp/midterm/cm3060-nlp-midterm-coursework"]
+	path = modules/nlp/midterm/cm3060-nlp-midterm-coursework
+	url = https://github.com/caiombueno/cm3060-nlp-midterm-coursework.git
