@@ -25,3 +25,6 @@
 [submodule "modules/md/midterm/cm3050-food-app"]
 	path = modules/md/midterm/cm3050-food-app
 	url = https://github.com/caiombueno/cm3050-food-app.git
+[submodule "modules/3dga/midterm/cm3045-first-3d-scene"]
+	path = modules/3dga/midterm/cm3045-first-3d-scene
+	url = https://github.com/caiombueno/cm3045-first-3d-scene.git
